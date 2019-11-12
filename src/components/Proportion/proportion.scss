@@ -1,0 +1,25 @@
+.proportion {
+  height: 15px;
+  background: #666;
+  border-right: 1px solid white;
+
+  &.theme-orange {
+    background: #ff9400;
+  }
+
+  &.theme-blue {
+    background: #4356ff;
+  }
+
+  &.theme-black {
+    background: #222;
+  }
+
+  &.theme-yellow {
+    background: #ffb700;
+  }
+
+  &.theme-darkblue {
+    background: #225da9;
+  }
+}
